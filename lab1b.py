@@ -8,6 +8,11 @@ This script uses objects to print a personalized message.
 Author: Ishmeet Kaur
 Date: January 15, 2024
 """
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
 
 # Define objects
 name = "Isaac"
